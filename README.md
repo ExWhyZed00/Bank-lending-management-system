@@ -38,7 +38,7 @@ A full-stack banking application with secure JWT authentication, comprehensive l
 
 1. **Clone the repository**
 
-git clone https://github.com/MasterSailor10/bank-lending-system.git
+git clone https://github.com/ExWhyZed00/bank-lending-system.git
 cd bank-lending-system
 
 
